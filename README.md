@@ -1,2 +1,4 @@
-# git-practice
-branching and merging
+
+# Git Practice
+This is my first branch test.
+
